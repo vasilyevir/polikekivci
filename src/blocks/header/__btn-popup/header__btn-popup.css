@@ -1,0 +1,17 @@
+.header__btn-popup{
+    display: none;
+}
+
+@media(max-width:1000px){
+    .header__btn-popup{
+        display: inline;
+        background-color: white;
+        width: 44px;
+        height: 44px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        border: none;
+        justify-self: center;
+    }
+}
+

@@ -1,0 +1,12 @@
+.header__nav-bar_movies{
+    max-width: 1058px;
+    width: 90%;
+    margin: 0;
+    align-items: center;
+}
+
+@media(max-width:1000px){
+    .header__nav-bar_movies{
+        display: none;
+    }
+}

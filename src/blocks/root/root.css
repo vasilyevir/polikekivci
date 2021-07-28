@@ -1,0 +1,9 @@
+.root{
+    background-color: #ffffff;
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    color: #000;
+    font-weight: normal;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}

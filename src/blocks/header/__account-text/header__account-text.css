@@ -1,0 +1,10 @@
+.header__account-text{
+    color: black;
+    font-size: 13px;
+    line-height: 12px;
+    text-decoration: none;
+    margin: 0;
+    font-weight: 500;
+    margin-left: 11px;
+    align-self: center;
+}

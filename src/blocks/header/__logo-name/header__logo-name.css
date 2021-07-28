@@ -1,0 +1,6 @@
+.header__logo-name{
+    line-height: 38px;
+    font-size: 30px;
+    font-weight: 700;
+    text-shadow: 5px 5px 5px rgba(0, 0, 0, 0.25);
+}

@@ -1,0 +1,4 @@
+.text-info__project_reverse{
+    flex-direction: row-reverse;
+    background-color: #ccc;
+}

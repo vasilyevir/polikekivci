@@ -1,0 +1,8 @@
+.text-info__introduction{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 80%;
+    margin: 30px auto 0;
+    text-align: justify;
+}

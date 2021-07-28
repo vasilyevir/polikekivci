@@ -1,0 +1,7 @@
+.header__films-link{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 212px;
+    align-items: center;
+}

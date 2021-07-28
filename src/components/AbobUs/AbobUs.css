@@ -1,0 +1,8 @@
+@import '../../blocks/cardlist/cardlist.css'; 
+@import '../../blocks/cardlist/__container-cards/cardlist__container-cards.css';
+@import '../../blocks/text-info/text-info.css';
+@import '../../blocks/text-info/__introduction/text-info__introduction.css';
+@import '../../blocks/text-info/__project/text-info__project.css';
+@import '../../blocks/text-info/__project/_revrese/text-info__project_reverse.css';
+@import '../../blocks/text-info/__project-image/text-info__project-image.css';
+@import '../../blocks/text-info/__project-text/text-info__project-text.css';
